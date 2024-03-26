@@ -1,0 +1,10 @@
+D:\Caculatorr_58_CaoNgocSon\Caculatorr_58_CaoNgocSon\bin\Debug\Caculatorr_58_CaoNgocSon.exe.config
+D:\Caculatorr_58_CaoNgocSon\Caculatorr_58_CaoNgocSon\bin\Debug\Caculatorr_58_CaoNgocSon.exe
+D:\Caculatorr_58_CaoNgocSon\Caculatorr_58_CaoNgocSon\bin\Debug\Caculatorr_58_CaoNgocSon.pdb
+D:\Caculatorr_58_CaoNgocSon\Caculatorr_58_CaoNgocSon\obj\Debug\Caculatorr_58_CaoNgocSon.Form1.resources
+D:\Caculatorr_58_CaoNgocSon\Caculatorr_58_CaoNgocSon\obj\Debug\Caculatorr_58_CaoNgocSon.Properties.Resources.resources
+D:\Caculatorr_58_CaoNgocSon\Caculatorr_58_CaoNgocSon\obj\Debug\Caculatorr_58_CaoNgocSon.csproj.GenerateResource.cache
+D:\Caculatorr_58_CaoNgocSon\Caculatorr_58_CaoNgocSon\obj\Debug\Caculatorr_58_CaoNgocSon.csproj.CoreCompileInputs.cache
+D:\Caculatorr_58_CaoNgocSon\Caculatorr_58_CaoNgocSon\obj\Debug\Caculatorr_58_CaoNgocSon.exe
+D:\Caculatorr_58_CaoNgocSon\Caculatorr_58_CaoNgocSon\obj\Debug\Caculatorr_58_CaoNgocSon.pdb
+D:\Caculatorr_58_CaoNgocSon\Caculatorr_58_CaoNgocSon\obj\Debug\Caculatorr_58_CaoNgocSon.csproj.AssemblyReference.cache
